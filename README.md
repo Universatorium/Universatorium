@@ -1,12 +1,12 @@
-### Hi there 👋
-
 <img align="right" src="https://img.shields.io/github/followers/Universatorium?style=social" alt="GitHub followers">
   <img align="right" src="https://img.shields.io/github/stars/Unversatorium?style=social" alt="GitHub stars">
+<br>
+### 🧰 Programmiersprachen & Tools
+---
 
-Here are some ideas to get you started:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Universatorium&show_icons=true&theme=radical)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Universatorium&show_icons=true&theme=green)
